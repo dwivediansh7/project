@@ -1,0 +1,1 @@
+Welcome to the Basic Calculator project! This repository contains a simple implementation of a calculator application designed to perform basic arithmetic operations. The project aims to provide a clear and functional example of how to build a calculator with fundamental features.
